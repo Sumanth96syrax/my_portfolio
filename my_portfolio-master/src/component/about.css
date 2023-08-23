@@ -1,0 +1,25 @@
+
+.about{
+    background: linear-gradient(to left, #8e2de2, #4a00e0); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    color: white;
+}
+h2{
+
+    margin-left: 15px;
+}
+.abt{
+    font-size: 40px;
+    font-weight: bold;
+}
+.bd{
+    font-weight: bold;
+}
+@media (max-width:500px){
+    .about{
+        height: 100vh;
+    }
+}

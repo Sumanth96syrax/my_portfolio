@@ -1,0 +1,26 @@
+.card{
+    background-color: white;
+    border-radius: 0.25rem;
+    box-shadow: 0 20px 40px -14px rgba(0,0,0,0.25);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    /* width: 480px; */
+    margin: 20px;
+    align-items: center;
+    text-align: center;
+    /* background: linear-gradient(to left, #f9f5f5, #a9a6ad);  */
+    /* border-radius: 10px; */
+    /* color: white; */
+}
+.card-img{
+    height: 230px;
+    width: 100%;
+    filter: contrast(70%);
+    z-index: -10000;
+    /* padding: 10px 10px; */
+    transition: filter 0.5s cubic-bezier(.43,.41,.22,.91);
+}
+.card-img:hover{
+    filter: contrast(100%);
+}

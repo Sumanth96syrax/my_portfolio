@@ -1,0 +1,19 @@
+#service{
+    background-color:#ffffff;
+    height: fit-content;
+}
+.pro-center{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+}
+.headd{
+    align-items: center;
+    text-align: center;
+    padding: 25px;
+    font-size: 35px;
+    font-weight: bold;
+}

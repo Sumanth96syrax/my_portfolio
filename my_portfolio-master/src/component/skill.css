@@ -1,0 +1,29 @@
+.skill-c{
+    background: linear-gradient(to left, #8e2de2, #4a00e0); 
+    display: flex;
+    height: 75vh;
+    color: white;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.s-abt{
+    font-size:20px;
+    opacity: 70%;
+}
+.a{
+    flex: 50%;
+}
+.b{
+    flex:20%;
+    font-size: 23px;
+    align-items: flex-end;
+    text-align:end;
+    margin: 20px;
+    
+}
+@media (max-width:500px){
+    .skill-c{
+        height: 100vh;
+    }
+}
