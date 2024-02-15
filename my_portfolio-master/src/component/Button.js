@@ -3,7 +3,7 @@ import "./button.css";
 function Button({ text }) {
   return (
     <a
-      href="https://drive.google.com/file/d/1-CAPWGqRPnbxzANDEE9tS392pdB5ija2/view?usp=sharing"
+      href="file:///G:/My%20Drive/SB%20Resume.pdf"
       target="_blank"
     >
       <button className="btn">{text}</button>
