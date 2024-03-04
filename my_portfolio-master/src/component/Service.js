@@ -9,9 +9,8 @@ function Service() {
       <div className="pro-center">
         <Card image="p1.png" textt="Face Mask Detection Using Machine Learning" />
         <Card image="p2.png" textt="Doctor Appointment Dashboard" />
-        <Card image="p3.png" textt="Demo Project 1" />
-        <Card image="p4.png" textt="Demo Project 2" />
-
+        <Card image="p3.png" textt="Quiz App" />
+        <Card image="p4.png" textt="Demo Project 1" />
       </div>
     </section>
   );

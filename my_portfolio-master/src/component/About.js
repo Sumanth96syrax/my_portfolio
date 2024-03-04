@@ -9,8 +9,7 @@ function About() {
         <h2>
           <span className="abt">ABOUT ME</span> <br />
           <br />
-          Hello, I'm <span className="bd">SUMANTH BRUNGI </span>and i'm Front-End
-          Web Developer. <br />I have a passion for creating responsive,
+          Hello, I'm <span className="bd">SUMANTH BRUNGI </span>and i'm Front-End Software Engineer. <br />I have a passion for creating responsive,
           features rich website's with a greate user{" "}
           <span className="bd">INTERFACE. </span>
           <br />
