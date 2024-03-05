@@ -13,7 +13,7 @@ function Home() {
     <section id="home">
       <div class="center">
         <h1>
-          <span className="im"> &nbsp; &nbsp; I'm</span> <br />{" "}
+          <span className="im"> &nbsp; &nbsp; i'm</span> <br />{" "}
           <span className="txt">SUMANTH BRUNGI</span> <br />
           <span className="d-txt">
             FRONT-END SOFTWARE ENGINEER & STUDENT LOOKING FOR <br />{" "}

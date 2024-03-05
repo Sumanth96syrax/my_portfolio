@@ -12,26 +12,9 @@
     margin: 0;
   }
   .txt {
-    display: inline-block;
-    white-space: pre;
-  }
-  .txt{
-    font-size: 5em;
-    font-weight: 700px;
-    border-right: 5px solid;
-    width: 100%;
-    white-space: nowrap;
-    overflow: hidden;
-    animation: 
-        typing 3s steps(14),
-        cursor .5s step-end infinite alternate;
-  }
-  @keyframes cursor {
-    50% {border-color: transparent}
-  }
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%;}
+    margin: 0;
+    font-weight: 700;
+    font-size: 80px;
  }
   @media (max-width:500px){
     .im{
@@ -44,6 +27,7 @@
       margin: 0;
       font-weight: 700;
       font-size: 50px;
+      width: 100%;
     }
   }
   
