@@ -7,6 +7,7 @@ function Service() {
     <section id="service">
       <h3 className="headd">PROJECTS </h3>
       <div className="pro-center">
+<<<<<<< HEAD
         <Card image="p1.png" textt="Face Mask Detection Using Machine Learning" liveLink="" 
           codeLink="https://github.com/Sumanth96syrax/face-mask-detection"/>
         <Card image="p2.png" textt="Quiz App" liveLink="https://quiz-app-mobile.netlify.app/" 
@@ -17,6 +18,12 @@ function Service() {
           codeLink="https://github.com/Sumanth96syrax/Weather-mobile-app96"/>
         <card image="p5.png" textt="Calculator App" liveLink="https://calculator-site96.netlify.app/" 
           codeLink="https://github.com/Sumanth96syrax/Calculator-React"/>
+=======
+        <Card image="p1.png" textt="Face Mask Detection Using Machine Learning" />
+        <Card image="p2.png" textt="Doctor Appointment Dashboard" />
+        <Card image="p3.png" textt="Quiz App" />
+        <Card image="p4.png" textt="Demo Project 1" />
+>>>>>>> 92e2ce0cc533370cdc7c007a513dbff7ae36980b
       </div>
     </section>
   );

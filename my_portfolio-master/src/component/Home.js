@@ -1,4 +1,5 @@
 import React from "react";
+import Typed from "typed.js"
 import "./home.css";
 import Button from "./Button";
 import About from "./About";
@@ -15,7 +16,7 @@ function Home() {
           <span className="im"> &nbsp; &nbsp; i'm</span> <br />{" "}
           <span className="txt">SUMANTH BRUNGI</span> <br />
           <span className="d-txt">
-            FRONT-END WEB DEVELOPER & STUDENT LOOKING FOR <br />{" "}
+            FRONT-END SOFTWARE ENGINEER & STUDENT LOOKING FOR <br />{" "}
             OPPORTUNITIES IN THE INDUSTRY.
           </span>{" "}
           <br />

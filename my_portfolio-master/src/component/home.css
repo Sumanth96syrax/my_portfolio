@@ -11,11 +11,11 @@
     font-size: 20px;
     margin: 0;
   }
-  .txt{
+  .txt {
     margin: 0;
     font-weight: 700;
     font-size: 80px;
-  }
+ }
   @media (max-width:500px){
     .im{
       font-style: italic;
@@ -27,6 +27,7 @@
       margin: 0;
       font-weight: 700;
       font-size: 50px;
+      width: 100%;
     }
   }
   
