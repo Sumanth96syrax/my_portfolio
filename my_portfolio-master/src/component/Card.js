@@ -1,7 +1,7 @@
 import React from "react";
 import Cbutton from "./Cbutton";
 import "./card.css";
-function Card({ image, textt }) {
+function Card({ image, textt, liveLink, codeLink }) {
   return (
     <>
       <div className="card">
@@ -10,7 +10,7 @@ function Card({ image, textt }) {
         </div>
         <div className="c-txt">
           <h4 className="c-t"> {textt} </h4>
-          <Cbutton />
+          <Cbutton liveLink={liveLink} codeLink={codeLink}/>
         </div>
       </div>
     </>
